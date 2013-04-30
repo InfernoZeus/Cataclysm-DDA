@@ -48,7 +48,7 @@ VERSION = 0.4
 
 TARGET = cataclysm
 W32TARGET = cataclysm.exe
-BINDIST_DIR = bindist
+BINDIST_DIR = cataclysm-dda
 
 ODIR = obj
 W32ODIR = objwin
